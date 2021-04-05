@@ -5,15 +5,16 @@
 ## Self Introduction
 
 [Go to Professional Experience](#Professional-Experience)
+
 [Go to Hobbies and Interests](#hobbies-and-interests)
 
 Hello everyone! My name is **Simon Liu** and I am a sophomore majoring in *Computer Science* at UCSD. 
 
 Here is some pictures of me:
 
-![](72143301_1568825296592681_5980310628999364608_n.jpg)
+![](/72143301_1568825296592681_5980310628999364608_n%20copy.jpg)
 
-![](IMG_0504.jpg)
+![](/IMG_0504%20copy.jpg)
 
 One of my life mottos is to live life with no regrets, which is why I love Wayne Gretzky's quote:
 
