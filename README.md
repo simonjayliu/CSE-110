@@ -1,6 +1,7 @@
 # CSE-110
-edit-read-me
+
 Simon Liu's User Page
+
 My favorite programming language is Java.
 
 
