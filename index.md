@@ -19,7 +19,7 @@ One of my life mottos is to live life with no regrets, which is why I love Wayne
 
 > You miss 100% of the shots you don't take.
 
-### Professional Experience 
+### Professional Experience
 
 I started to learn about computer science in my senior year of high school, when I decided to take the class AP Computer Science. That made me feel like it was what I wanted to major in, which is why I decided to come to UCSD as a CS major. Additionally, I have had some experience as an intern, having the opportunity to intern at Northrop Grumman during my senior year summer as well as this past summer.
 
