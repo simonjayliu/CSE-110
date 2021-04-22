@@ -12,7 +12,7 @@ Hello everyone! My name is **Simon Liu** and I am a sophomore majoring in *Compu
 
 Here is some pictures of me:
 
-![](pictures/72143301_1568825296592681_5980310628999364608_n%20copy.jpg72143301_1568825296592681_5980310628999364608_n%20copy.jpg)
+![](pictures/72143301_1568825296592681_5980310628999364608_n%20copy.jpg)
 
 ![](pictures/IMG_0504%20copy.jpg)
 
